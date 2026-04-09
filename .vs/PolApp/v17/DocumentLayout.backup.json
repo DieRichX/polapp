@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sql\\Desktop\\PolApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68451560-154B-4420-9424-C53DC97DB99F}|PolApp.csproj|c:\\users\\sql\\desktop\\polapp\\pages\\addeditpartnerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68451560-154B-4420-9424-C53DC97DB99F}|PolApp.csproj|solutionrelative:pages\\addeditpartnerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68451560-154B-4420-9424-C53DC97DB99F}|PolApp.csproj|C:\\Users\\sql\\Desktop\\PolApp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{68451560-154B-4420-9424-C53DC97DB99F}|PolApp.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68451560-154B-4420-9424-C53DC97DB99F}|PolApp.csproj|C:\\Users\\sql\\Desktop\\PolApp\\pages\\producthistorypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{68451560-154B-4420-9424-C53DC97DB99F}|PolApp.csproj|solutionrelative:pages\\producthistorypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PolApp||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68451560-154B-4420-9424-C53DC97DB99F}|PolApp.csproj|C:\\Users\\sql\\Desktop\\PolApp\\pages\\producthistorypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68451560-154B-4420-9424-C53DC97DB99F}|PolApp.csproj|solutionrelative:pages\\producthistorypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68451560-154B-4420-9424-C53DC97DB99F}|PolApp.csproj|C:\\Users\\sql\\Desktop\\PolApp\\pages\\addeditpartnerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{68451560-154B-4420-9424-C53DC97DB99F}|PolApp.csproj|solutionrelative:pages\\addeditpartnerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68451560-154B-4420-9424-C53DC97DB99F}|PolApp.csproj|C:\\Users\\sql\\Desktop\\PolApp\\pages\\partnerspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68451560-154B-4420-9424-C53DC97DB99F}|PolApp.csproj|solutionrelative:pages\\partnerspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68451560-154B-4420-9424-C53DC97DB99F}|PolApp.csproj|C:\\Users\\sql\\Desktop\\PolApp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68451560-154B-4420-9424-C53DC97DB99F}|PolApp.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68451560-154B-4420-9424-C53DC97DB99F}|PolApp.csproj|C:\\Users\\sql\\Desktop\\PolApp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{68451560-154B-4420-9424-C53DC97DB99F}|PolApp.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68451560-154B-4420-9424-C53DC97DB99F}|PolApp.csproj|C:\\Users\\sql\\Desktop\\PolApp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{68451560-154B-4420-9424-C53DC97DB99F}|PolApp.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68451560-154B-4420-9424-C53DC97DB99F}|PolApp.csproj|C:\\Users\\sql\\Desktop\\PolApp\\polmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{68451560-154B-4420-9424-C53DC97DB99F}|PolApp.csproj|solutionrelative:polmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\sql\\Desktop\\PolApp\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\sql\\Desktop\\PolApp\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-10T09:55:14.582Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddEditPartnerPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sql\\Desktop\\PolApp\\Pages\\AddEditPartnerPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\AddEditPartnerPage.xaml.cs",
+              "ToolTip": "C:\\Users\\sql\\Desktop\\PolApp\\Pages\\AddEditPartnerPage.xaml.cs",
+              "RelativeToolTip": "Pages\\AddEditPartnerPage.xaml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAABsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T08:01:07.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddEditPartnerPage.xaml",
+              "DocumentMoniker": "C:\\Users\\sql\\Desktop\\PolApp\\Pages\\AddEditPartnerPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\AddEditPartnerPage.xaml",
+              "ToolTip": "C:\\Users\\sql\\Desktop\\PolApp\\Pages\\AddEditPartnerPage.xaml",
+              "RelativeToolTip": "Pages\\AddEditPartnerPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-26T08:00:45.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductHistoryPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sql\\Desktop\\PolApp\\Pages\\ProductHistoryPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\ProductHistoryPage.xaml.cs",
+              "ToolTip": "C:\\Users\\sql\\Desktop\\PolApp\\Pages\\ProductHistoryPage.xaml.cs",
+              "RelativeToolTip": "Pages\\ProductHistoryPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:59:15.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductHistoryPage.xaml",
+              "DocumentMoniker": "C:\\Users\\sql\\Desktop\\PolApp\\Pages\\ProductHistoryPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\ProductHistoryPage.xaml",
+              "ToolTip": "C:\\Users\\sql\\Desktop\\PolApp\\Pages\\ProductHistoryPage.xaml",
+              "RelativeToolTip": "Pages\\ProductHistoryPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-26T07:58:56.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PolApp",
+              "DocumentMoniker": "C:\\Users\\sql\\Desktop\\PolApp\\PolApp.csproj",
+              "RelativeDocumentMoniker": "PolApp.csproj",
+              "ToolTip": "C:\\Users\\sql\\Desktop\\PolApp\\PolApp.csproj",
+              "RelativeToolTip": "PolApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-26T07:42:11.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PartnersPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sql\\Desktop\\PolApp\\Pages\\PartnersPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\PartnersPage.xaml.cs",
+              "ToolTip": "C:\\Users\\sql\\Desktop\\PolApp\\Pages\\PartnersPage.xaml.cs",
+              "RelativeToolTip": "Pages\\PartnersPage.xaml.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADgvzkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:57:57.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\sql\\Desktop\\PolApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\sql\\Desktop\\PolApp\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-26T07:28:19.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sql\\Desktop\\PolApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\sql\\Desktop\\PolApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAASwB4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:28:19.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PolModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\sql\\Desktop\\PolApp\\PolModel.edmx",
+              "RelativeDocumentMoniker": "PolModel.edmx",
+              "ToolTip": "C:\\Users\\kazan\\source\\repos\\PolApp\\PolModel.edmx [Diagram1]",
+              "RelativeToolTip": "..\\..\\..\\kazan\\source\\repos\\PolApp\\PolModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-02-26T07:41:30.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\sql\\Desktop\\PolApp\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\sql\\Desktop\\PolApp\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-26T07:28:39.217Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
